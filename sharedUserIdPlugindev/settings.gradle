@@ -1,0 +1,1 @@
+include ':app', ':plugindevLib', ':plugindevmain', ':plugindevmodulea', ':plugindevmoduleb'
